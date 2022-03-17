@@ -1,11 +1,11 @@
 ### Manual For Tip Calculator App
 1) launch the application either through android studio via running the emulator or through the app drawer on the phone 
 
-2)input the total amount to pay in the check amount field (*this is required) 
+2)input the total amount to pay in the check amount field (required) 
 
-3) touch the field next to the party size to enter how many people will this check be divided between (*this entry is required and cannot be less than 1)
+3) touch the field next to the party size to enter how many people will this check be divided between (*this entry cannot be less than 1 and it is required inpt)
 
-4) after steps 2 and 3 touch the Compute tip button to calculate your ammount
+4) after steps 2 and 3 touch the Click on the tip button to calculate your ammount
 
 5) The tip column shows the tip result alone for a 15, 20 and 25 percent tip
 
